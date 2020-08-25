@@ -1,4 +1,4 @@
 <?php
  echo "Hello, Jenkins!<br>";
- echo "This Page is Test Page.";
+ echo date("Y/m/d h:i:s");
 ?>

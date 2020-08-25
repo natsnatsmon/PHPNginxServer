@@ -1,4 +1,4 @@
 <?php
- echo "Hello, Jenkins!";
+ echo "Hello, Jenkins!\n";
  echo "How are you today?";
 ?>

@@ -1,4 +1,4 @@
 <?php
  echo "Hello, Jenkins!<br>";
- echo "How are you today?";
+ echo "This Page is Test Page.";
 ?>
